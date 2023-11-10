@@ -1,0 +1,26 @@
+{
+  "name": "Leroy Haynes",
+  "age": 53,
+  "address": {
+    "street": "Zojvo Street",
+    "city": "Egivdal",
+    "state": "SC",
+    "zip": "26742"
+  },
+  "contact": {
+    "phone": "(811) 951-5657",
+    "servicePhone": "800353853"
+  },
+  "birthday": "1990-06-27T08:39:26.741Z",
+  "ip": "164.68.7.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Kibke atiokohu tir utoufuwud ko ti nugwih kopwid jifbo hadubob waro boj tifilef ojiij jeghihuc. Sonboso kurguv omhumo cejcomgun wo epuko tuosuna mi necurso kihihe wide zod deniztu luolowak laeh acaisi matur. Aho ujudi doka giwub dopkar paev tub sukiwuk necib lip jahmumkub sotej.",
+    "bio": "Cahmefama fon railu wo becetomu og cacawa kukajje ezrih mijfab fup dehepi. Amihelso mimipmoj ekewo pabob otano la inibuziw ci ceenu fukoltel sezfe loselija ota ri domac wunefjiz. Soge pa giiv fa odoab ja mup geftupuc jum ze gigev uzon juwov epodirok ginkevdi."
+  },
+  "apiKey": "27e851d79f0226b9460ce3cfeb9b3658d1060347a5ede243de0f42e26f0efab8",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
