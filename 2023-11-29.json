@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Logan",
+  "age": 31,
+  "address": {
+    "street": "Suhu Avenue",
+    "city": "Puahasu",
+    "state": "NH",
+    "zip": "75805"
+  },
+  "contact": {
+    "phone": "(422) 813-9585",
+    "servicePhone": "800484967"
+  },
+  "birthday": "1961-03-07T13:30:23.255Z",
+  "ip": "41.241.75.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Upheki kiffasa jadda ra lukuw jizhuhzo diaj jana orezuh ra hegguj sucroih ajge sajavmec. Tel haedoopa hugagimug oj ivaek ci buv abiacuje ra tasibi gesok so faepe. Kuw akijonsit vuflaot jatviz gunew tiefu cen gouwfet tumnop tugveh mo af.",
+    "bio": "Okocezvul tezcatfoc sofene wigob acmud casdamte ka nafle nano lembus zan wodarga jedku uba. Nuserten nuvra umtip ra jagojuna dofzun ukimattu ulu il lilgo cotke duwa vuzelosul uv vudomjif tu. Ar oghahvad wasipeb du icecif apotuk zuh gapuhu duwi kon on gip utkowesa. Zap voupmu gej jo uw naiju desos lam enwibo ligfuk ji caj aseetbe cuttic fajavna tomi pudag rucud. Netom fub cu gemniat muazajil ih vo hogu wu aj opna ib bed ze."
+  },
+  "apiKey": "9db9b2525f0c66a4c4564b5a767a8b441b398a01957a0e44805a70316a37fa88",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
