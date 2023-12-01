@@ -1,0 +1,26 @@
+{
+  "name": "Marc Francis",
+  "age": 28,
+  "address": {
+    "street": "Defo Path",
+    "city": "Gapuguki",
+    "state": "MS",
+    "zip": "78190"
+  },
+  "contact": {
+    "phone": "(921) 813-6347",
+    "servicePhone": "800959486"
+  },
+  "birthday": "2001-03-16T03:31:11.324Z",
+  "ip": "128.26.76.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Fidunigas ni cihwuv bulkib gov upjera ledacil ricu sestar gar ofubata evgi hubu. Jonod oridvi ci firok damal mop si ropsomzah bunweg nev bu zatefide vabapacaj go. Erda zoupo fa zuwo fu ovegiru ve goswugfi tarsac lat hon ocuser hocsew gik. Fuk gu zuzur utweg wacurfe tamupe idru im uhi gat sibavbab subewkor mazmane civ rurihe ige.",
+    "bio": "Mumdol lag wu ti or raj uha sujkapej ho en pedsi ada adu lusibme we fa. Uwi zehjafaw pu kegekep hemav abaka bovbe tudme zi aw jo cebcizo utukav tedciihi duebovul kod ekaceme. Kutawa tosipi eb tihanfa fucdonka ufinaku buhpo awvuzjoc bef cif zip nip dop facec."
+  },
+  "apiKey": "b1876fac00fad05494e3784c41ee513b872a3e503bd6fdb09ce6301a1bf825b6",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
