@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Valdez",
+  "age": 23,
+  "address": {
+    "street": "Gikut Court",
+    "city": "Devcemo",
+    "state": "IL",
+    "zip": "78213"
+  },
+  "contact": {
+    "phone": "(486) 672-8421",
+    "servicePhone": "800135682"
+  },
+  "birthday": "1973-02-19T19:56:28.973Z",
+  "ip": "51.34.160.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Me rukkuz milta fivdu ihevofci cec kizruuno bormiwe hangip koswi lezdo fimlo ha ob ker jauj bivti. Gecujnic din bilivuba og viituec sor akgam do vetdi fi huhisnev jakhove sihi latjajmes niur. Noljattaz so fi awalof camteg womkosha ro kiewi utugev buswiluzo romkukof poknikla lejtehhel aca paho wuranem. Jejofsi powukbur hip bif duzulned ari komigo ceuda juugivo akiisi upavowo lezemetac vudwe bupin luk.",
+    "bio": "Sus tuvaz lavubu varga icu ciudeti tewadi hum gi wimpu nukna gafonti pegded gap ute. Fesamgim zese cam ugauzolog tahumub zewmipab lucohbub mimifaji lihwuwar hon tol ru. Tedri cilige mum apriju jojnah va tobvube tumut enikama tez viwa faw hiw ujosaus wipfo releca vimefcew sila. Zotsosis va faggo ji di cof wegze nu iw cu holonuha gualdul du. Nuli he junafli pifuewu vegeto hez ocde hopfuhab git decdahwup jadkoj eke lecusanis zow dih ipfuar. Sohfag guiwu ikmizmu ca ile nowwuv dil cilinwoj kuszagal du cusi tal falgar uda ezugim vovuif."
+  },
+  "apiKey": "11ffe619987368aba3c7c571af54bb69a27fb1a57161a846eb215a6942b81719",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
