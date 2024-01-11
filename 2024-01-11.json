@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Cohen",
+  "age": 47,
+  "address": {
+    "street": "Pafe Center",
+    "city": "Wihilow",
+    "state": "WI",
+    "zip": "30033"
+  },
+  "contact": {
+    "phone": "(544) 704-7360",
+    "servicePhone": "800185953"
+  },
+  "birthday": "1981-09-29T02:46:33.633Z",
+  "ip": "51.26.149.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Sif munwup ca tompe luru bo puw toz ruubatil danuada dirregku sow dafu ahji lop unpege. Luvaz edi gosgici witho vaz lipi zabazi heh pa ris zatugi rerliri ra oc. Bejumuwo cebod tu fah ginahav fuituzak zu gugovo dulfam eh dih liledun gof gatlul vogado. Puhla zoj is vuben bahuc ujtahoc golzoscu wumfa ti wurijovus lez re um gar.",
+    "bio": "Kid kohev mi hogewov ip amsoged ihi onjovo zicge rapzi eteti najsuv tuczo oztim jihocwa. Wew jokam ivo mehabuj wumlasfi ofki vizoj ga epowu icokajun kulmutna losdecbu izji gel. Deb micrub lu bo zolbigpak waldut wehiksil nimesvev zedzem mo kacahbe zez seho cipsat uv. Bogow uhikes nawkomu midpaj miba pi ogiifiaj sacobmub sugdobo mezezre gowha ijce doz pavgula. Neljerawo veejo ca uc lec op ip gigozu fe zihgof mijte ho mo upuhun amuipe awu efesana. Ozzekgi finupje cu ev lona af abaga irpajgul ami padizpe nu fi zigibewi mejodzu luc nigkavo doz."
+  },
+  "apiKey": "b6d48f139474d42494a745260a1c8582948614b0fbca9d2a440405cc67f7e9a9",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
