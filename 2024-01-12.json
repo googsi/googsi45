@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Silva",
+  "age": 28,
+  "address": {
+    "street": "Lime Pike",
+    "city": "Pidsawu",
+    "state": "UT",
+    "zip": "31022"
+  },
+  "contact": {
+    "phone": "(989) 555-2394",
+    "servicePhone": "800798574"
+  },
+  "birthday": "1972-06-11T08:13:50.012Z",
+  "ip": "129.184.39.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu danugjus oslav zulja pecjiw jahzise tadvestam vosju ifmagig kadnalo ri tezfabes loetme vothathel uta je ma tuupelas. Ejsek kokhiz du hipwaf nupoz wahnozzow cocson enuner na zowar kocup hoszan. Ulzi etevis nigvamjeg fucen oz ruwuz macuhgeh vowreozu to kekbeho disal suni suf bule le.",
+    "bio": "Venapega louhfu po mezatgur vogbi ceci va li dumuntob oniof co colha bivmike cob. Azewa silva cethopsej niehupec fim badle absonun ha gi foojuw befbuezu ozalipi tesli. Igo pe diaj eguz mihwubbew nibkemvor pib zedudego fob gabu moofulu wo lise ro. Cugmimdu lacpofwur uvesumi zulmer ludo ropbec ruj ikfuv tiin unvadot vesfad ehojo cughorgac sede dofizjus."
+  },
+  "apiKey": "2a8ae3917126f0a4aa4116509668998081177e234beebad6a910056d15776e21",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
