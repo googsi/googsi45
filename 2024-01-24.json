@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Newton",
+  "age": 37,
+  "address": {
+    "street": "Unpu Loop",
+    "city": "Ulesuk",
+    "state": "CT",
+    "zip": "11407"
+  },
+  "contact": {
+    "phone": "(352) 665-4355",
+    "servicePhone": "800172677"
+  },
+  "birthday": "1998-07-20T08:15:17.894Z",
+  "ip": "82.62.244.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Mazcaguh mode idevatuti gomon jited solcirpe maikora uraeb ippuj em ja uvwe moknawti nainuic gospuz fipkotle irujawa. We uwe tiwiruv rouweweh werris ladti ohsebmug uko me vahijpo kot ilsa. Kob lokuhme vehu sez fapgowbi idoeffum fola jotba ti zoev fuehu nusedkon.",
+    "bio": "Faukeezi roku eve fasviwbed mav obral gobmido ri hitogcu kupidi ho idi jidcode ci wuchiric as pudusu wusa. Ulgolru jiw was umibam zev utahi tuon roiv avuki gu ufuga ifbe mormuihu noz ovigugsi faoweij ortan cuuttar. Nooplo hujtol fiwti hus hufo ijo ibmek bubof majla di lal jusbisba mijo va pulaezu tu suvzodiw madmodafo."
+  },
+  "apiKey": "2a2286ddb4447db1445a9365e81c3a556d8371b58a87a1f8d532637e475bd9c0",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
