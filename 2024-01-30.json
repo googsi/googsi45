@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Casey",
+  "age": 61,
+  "address": {
+    "street": "Iwioba Pass",
+    "city": "Zakepej",
+    "state": "OH",
+    "zip": "23181"
+  },
+  "contact": {
+    "phone": "(984) 424-2035",
+    "servicePhone": "800744929"
+  },
+  "birthday": "1983-04-04T16:56:23.373Z",
+  "ip": "231.72.7.229",
+  "foo": "bar",
+  "profile": {
+    "about": "Leb pijsotno mep deizsi fenok si cosodo kuvusvet huzuba luwumne feakauve lu cavadunuj jatorarih. Fopowlon pecnihano vufpugge pugejla pinojog wogi dujame am ah cupi olusiire uporem nikab se tusozo eczirji veakafa. Nuos hezmufi wab buse vof abuweju irjek go ec pokwejrus es satvil. Fodrijbo wo ba fenbe ohomaej giizuget jir ebonu pogej eknogda kehsam do piguza kawo jugujtig fewac. Bunpon haci ubikatjas itzin owunelaj ehiido zezibu li ega rikma edofinoh jid lo sor.",
+    "bio": "Avhalo top je nukapoh ucatop vus jeozu calu kaci dojuc ci ugononen ejo basnatem womesu ih. Poduge gak nenagoh wekadoh furehzat owoke idabifu zasiz totzawhe papespim ozbukbus vieho wemi. La dobvalza sehjace tu fum tobpic kubafvu nivvuphul cisa besjerlev ihuagies kuksepug hav sa garehne iced rocolo. Fospese emo esuto evaco li rubkagar haca co cinudput vaipo madnapen kemlucoc pu."
+  },
+  "apiKey": "71d4a216382a9bfef8c2a2c394fadaa04d2e447e31c33c64301b29f417038ed9",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
