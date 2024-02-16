@@ -1,0 +1,26 @@
+{
+  "name": "Roy Barton",
+  "age": 53,
+  "address": {
+    "street": "Hamec Glen",
+    "city": "Kediik",
+    "state": "ND",
+    "zip": "30096"
+  },
+  "contact": {
+    "phone": "(734) 680-9485",
+    "servicePhone": "800231416"
+  },
+  "birthday": "1998-12-23T12:57:05.003Z",
+  "ip": "91.182.42.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibtoaga vuhnifu pina vidareda kirugale ifpekovo ig ipfudo giloke osija hawufev naevfut jopi. Nan gicgihi lugadjod gicpu iznoset pifih hepsugzis zikeedu umulovjod kul veeza fi zafjuk nod rula nudidcen. Ped wo pe rosjo el baaje ipa ujno za vu lowkigun bo bi labomkal cij uzelo. Ustij ijge war jofig tanweufa faoj vu keuze kev vulutim rugpaug opgarpuf ned. Rid rozune irenut fumow nemjever nazziwi jurgep ohzu mobra jewodnok lewuwve nenifu owoda ijo ca hohge zul.",
+    "bio": "Ida zugumbap waini havajiw apeibeavi goih depatvez zadcov cijen utu mad fozifa suliju om. Lamwadji gosa hoh kaenoam laguha buw gamamokem can gazfolvit nuk zaknoc tugunu ij senogte izealec ite. Vi eksele nigiveni suge jecocbu kub wesaguw lan lam jecofmo di nadezi diwfe."
+  },
+  "apiKey": "9149177496f9c6ebe04c2e3d64c3f651bccfbb6d853d91a2098803e65194c526",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
