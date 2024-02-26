@@ -1,0 +1,26 @@
+{
+  "name": "Dale Ford",
+  "age": 39,
+  "address": {
+    "street": "Nanac Pike",
+    "city": "Kihusa",
+    "state": "MA",
+    "zip": "04767"
+  },
+  "contact": {
+    "phone": "(714) 208-2126",
+    "servicePhone": "800538676"
+  },
+  "birthday": "1991-05-03T22:44:42.808Z",
+  "ip": "227.201.186.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Civhi ectujer ab vazvev kudke hectare tes kudlili rajvevo agonugze oserokraf gu hugfevji. Rorat ron cew gujmillil fec loji wenbuha nez elre loz ibuuk vog na. Zakez zep ra meud fuohni topavvot fecow zuganru ebiwu mop havvog waliho icve is zep be. Oji za gam izewub jac susib mud wu rimoda to bahciv iv jusvibug ak piwuvi iv nueko.",
+    "bio": "Eju nazgu su ged utwo woav cetaf wo sokte famre ut rodma duvap nod eg. Muflo azgeg zikoleg howfo rajip sac vujpu an dilo huvi bawa zo zov. Vu ik deg zisaje befoli he rukamo wupe nahu ha ato we. Fu hu avmujis roh fer pegu lehbu upigop devoda zumu jijer ighegton. Er bis ga bej te zudgeura ecooh len purvipo wellivav pecurvu lete ijloc lihuw. Ohga paijal wooh buvoz fuzu il lek bibis sonoz boro ohmeb fec kac koro dagfus fe roled lanpeame. Hiate wis colcog jaldij hogwegnir doude isafaje wicu ba tuszano doltolle janji."
+  },
+  "apiKey": "b1f535f716f36fc50d38ab9b97e2e3194139cb63f775093d0524fc45cff70f71",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
