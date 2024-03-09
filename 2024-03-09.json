@@ -1,0 +1,26 @@
+{
+  "name": "Martin Stevenson",
+  "age": 31,
+  "address": {
+    "street": "Doltu Point",
+    "city": "Dipuwi",
+    "state": "CO",
+    "zip": "65107"
+  },
+  "contact": {
+    "phone": "(525) 413-9436",
+    "servicePhone": "800533728"
+  },
+  "birthday": "1992-10-05T03:43:06.662Z",
+  "ip": "134.144.93.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Zokdar ra ujopab vazizun guute bah jin muhsikiz gadumupu watoca riazo zovej azripok ga giihu ji cihnojot. Jafafacal momevu ribusso ibolecuk ta cij dom cu vowsulhov pive hak hikuj ubze. Ikbisfoh roajuzak wir ca zepnepdej di nistur es kumragi wi latnis weha sudacud vemheja biawe hasuca. Pug we dugotgiv tofuda vurdun citwama veztol lufu uta epofoip adumeser muatite uvmi kawuhuzi iwsu.",
+    "bio": "Zipaneg poivoune hiah huh fuilur galhu locojme ze teal le mit bonagu sepmaj teratur dikur heg. Akiap waidkib ecarid fo jajvum ajo if oma ohapigir ekcigma ven kurnel. Heb aju matmezow va se wetafa ku mukwug hozli cazacrep ci hitjacoge opve isucazkis. Ivegomah vof lupgezos nuapeno ce duunvu hu dici do la okrec zurkof avica awucalror uruhe pesvoh iboka. So kogip fuzi gaweome zatbafpuf same rob fos jijogcor mauhihon devfuor pam dijudi hikama co vet."
+  },
+  "apiKey": "12e2c8213adc607ed267066c18ff4ec9a05856c721ff24c0291d7473630f8e8b",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
