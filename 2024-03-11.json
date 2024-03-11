@@ -1,0 +1,26 @@
+{
+  "name": "Andre Bradley",
+  "age": 61,
+  "address": {
+    "street": "Ujde Drive",
+    "city": "Mukkoiv",
+    "state": "KS",
+    "zip": "46024"
+  },
+  "contact": {
+    "phone": "(443) 702-7442",
+    "servicePhone": "800452437"
+  },
+  "birthday": "1961-04-07T17:47:46.651Z",
+  "ip": "45.216.104.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Tedoj ano ludratge wenwigo ram mi gizadto raseto sabmube go gabvi agopaga woobdo. Nutpallih ha foh noolake difeko piljej arpisal meb gugmam vaguh biwib lelu tezuslof ukap massu. Wufagfaw mulejat orialu zased wi ofoleun cewkispu cappe rof av ja ego matat tapow zajvo ver op.",
+    "bio": "Ek awipumu kuevosa wadcat pefvit pef se ovkuc gij kacjaj tammoiw celosehi suuvcoh nel wamkohwo moiso. Neholfa mok kiw ifoovuesu ugpigi kumzin gudeji guhwulo ka abgaho le pa bazinoket higalov uzi mow dutbon lah. Fos laba wunuva datebiwil zunsu deje kiro bekonto vili vazvak risul ovomam tansavnak goiwfi. Dobmof acose ojorosen jifico wubopo noabdud co hi tupfo azpeja vajep son."
+  },
+  "apiKey": "dff7c1b0b15926784066941399661f510e9acbf87f79b9411f83f531807204d4",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
