@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Torres",
+  "age": 36,
+  "address": {
+    "street": "Waute Road",
+    "city": "Fomeino",
+    "state": "KS",
+    "zip": "30379"
+  },
+  "contact": {
+    "phone": "(468) 553-3268",
+    "servicePhone": "800537314"
+  },
+  "birthday": "1959-02-12T21:43:47.095Z",
+  "ip": "23.115.94.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Bicgi weado eckumne fabbafgaj niddu osuohti eli nor re kilzojan ohajes ofhulha sevra kiv. Pa otoripzif dina jo fedfuz di gifuev fi bizja sigu aweku jo rim bevupu de vurebuv kit tuved. Kumlaz zouveeh jih dus ganjil elku sejjapsop am ju pesef edo difura kasnesup leciwoj. Hevpuh iju eboke hav tasso mubob jogev ofubeg miznohzec omata pimupeh zitiw kafhok povoba wufiid acnafa negmorcot ota. Ebaem losjas ma fom kakuk nofvud ajiomu ca eperoshu ewa hah miwsavi ava ibedaj nurmilga ruip.",
+    "bio": "Waze vaegehi vesof tofi jiw pav nij paufsu huzfon suliba loccokru redurip bozsigraw. Taeliv juiz nakiwu osgabme tesan ciw bah honanuf dudlal ipdah uwu fif zoz rivte mul agki ewcoman zigatve. Tool juuc viocu liwri fikvupe subug fefhu ator uftew va ugufothi pov kipuow lunig pug cager. Hacuce zamaeh muut petucjup cah ika zogvi la vuvwi goj few setasmic diavizel kor holivizuh jopokeda."
+  },
+  "apiKey": "5b38a002bd5360579ba96c9e1de3cc0177ded8b55ff3431b7ddb2e6502b08973",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
