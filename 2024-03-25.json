@@ -1,0 +1,26 @@
+{
+  "name": "Jack Wong",
+  "age": 20,
+  "address": {
+    "street": "Lamra Grove",
+    "city": "Pameep",
+    "state": "DE",
+    "zip": "38491"
+  },
+  "contact": {
+    "phone": "(727) 697-4440",
+    "servicePhone": "800589928"
+  },
+  "birthday": "2001-04-23T20:33:34.406Z",
+  "ip": "159.85.47.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Hik waja tu laihje bo ganehret hi po foragugu le sap zetwu ijuvla fu vih. Matof ah worij sizsed pohav ihizezhe biobhop ihiraalo po subbowih ciga ikawodo. Ve ep madob tazib foraru ijuvomir ok dedhejko med takpa hu egusap vime.",
+    "bio": "Worivsi zijnig pahwo unebiked vilvas ep te jiznepom fuzip incorgim vurzu wonithu faacwid pelud tible tiiwfuc detkikfe dazdenem. Jefan vomjob jawsiv rokpo tec ke jijamu harpo tememloh bezeb winegop fejezip bolvag. Cundiana enosa eb diwabwe jo joznocji mepaw gale awo leekowo tocpih ta dakajpi luwegsub. Ul ca jet rukum cakjip gupjiata wi fec fuh wektabwa nadganiv page rijliflo avfoevu. Omawut ol icsuc oc hov suwikot caklekkoh nukvurot ow himipid ajahek suc ma wiciv nobti. Hoveb vitok esaiforat faro ni kiini nef nasofono os reru kuamo wud."
+  },
+  "apiKey": "f8f527edd19343198d93029f406c2ba8d3bdd37ba6facb2c70845f460cc56ea4",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
