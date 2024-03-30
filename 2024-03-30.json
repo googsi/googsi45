@@ -1,0 +1,26 @@
+{
+  "name": "Anne Carr",
+  "age": 51,
+  "address": {
+    "street": "Abdam Place",
+    "city": "Zamale",
+    "state": "KS",
+    "zip": "14056"
+  },
+  "contact": {
+    "phone": "(263) 504-5976",
+    "servicePhone": "800938289"
+  },
+  "birthday": "1976-03-17T22:22:22.236Z",
+  "ip": "75.115.134.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Ominuogo bijvubso vaugi ateze bih opdo louwmas lekoriw icu kultiow kuhdowu wef. Ruresro gawezodu zo ofew dep vah mikhadreg giw wedus jawhewli hokpilgeh nu vip ofauvunut. Ofo siegaguh nadukcub ressas luikwaw fov buhrir ceova acuvcec vobippib soz wa.",
+    "bio": "Guvsi sa he wol fuozhar obemam olgav pij guc afhu co ib feraw ac toc ira gazotieto. Jalwigik mehirid fuifura noudci nimupcu odo onciloj le wuica adotiwep dowamaw ekras oniza fufe mozes alpe corwe fakob. Ovros wa epa luzvuf igpa rozfemki zahgiluw foguvfi agni hep mul metihuc evobubo towidvu tobbu agdojnil. Runizecil wemsafge ebu cakah ok ab omanikoh dal ipmumwe wazuwca opte omu zed zuositad wemisita ir vo."
+  },
+  "apiKey": "3ab9d244251642f030c027e969b801dee1ea80e685b96d34dabdda0d7d26001b",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
